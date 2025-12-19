@@ -2,6 +2,8 @@
 
 > AI Development Tool Security Platform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/supplychainguard?style=social)](https://github.com/yksanjo/supplychainguard/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/supplychainguard.svg)](https://github.com/yksanjo/supplychainguard/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/supplychainguard.svg)](https://github.com/yksanjo/supplychainguard/issues) [![Last commit](https://img.shields.io/github/last-commit/yksanjo/supplychainguard.svg)](https://github.com/yksanjo/supplychainguard/commits/main)
+
 ## What This Is
 
 SupplyChainGuard is an open-source security platform that protects your software development process from risks introduced by AI coding tools (like GitHub Copilot, Amazon CodeWhisperer, ChatGPT Code Interpreter). It monitors AI tool behavior, validates dependencies, and generates software bills of materials (SBOMs).
