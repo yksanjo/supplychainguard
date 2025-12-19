@@ -97,7 +97,33 @@ This is for:
 - **Security teams** managing software supply chain risks
 - **DevOps teams** setting up secure development pipelines
 - **Organizations** adopting AI coding tools at scale
+- **Banks building software** (digital transformation)
 - **Mid-market companies** who can't afford $200K+ enterprise tools
+
+## Target Segments
+
+### Banks Building Software (Digital Transformation)
+**Why We Fit**: Need SBOM generation, dependency scanning, AI tool assessment.
+
+**Positioning**: "BitSight tells you a vendor has problems. We tell you exactly which dependencies are vulnerable and how to fix them."
+
+### Organizations Using AI Coding Tools
+**Why We Fit**: New risk category - AI tools as vendors, need specialized assessment.
+
+**Positioning**: "Snyk scans dependencies. We scan AI coding tools AND dependencies. Different problems, different tools."
+
+### Mid-Market Companies
+**Why We Fit**: Can't afford $200K+ enterprise tools, but need supply chain security.
+
+**Positioning**: "Enterprise-grade supply chain security at mid-market prices."
+
+## Our Competitive Advantages
+
+1. **AI Tool Focus**: We monitor AI coding tools themselves, not just dependencies
+2. **AI Code Analysis**: Understands AI-generated code patterns (they scan human code)
+3. **Behavioral Monitoring**: Tracks AI tool usage and behavior (they don't)
+4. **SBOM for AI Code**: Generates SBOMs including AI-generated components
+5. **Isolated Testing**: Sandbox environments for AI tools (they don't offer this)
 
 ## Current Status
 
